@@ -8,12 +8,36 @@ Je me présente Maud le quart de siècle atteind. Si vous êtes ici c'est que vo
 
 Bon allons dans le vif du sujet
 
-## Mes compétences
+## Compétences
 
-Les compétences que j'utilise tous les jours
+Les compétences professionnel que j'utilise quotidiennement.
 
 * PHP/Symfony
 * MySQL/MariaDb
+* Git/Github
 * Ubuntu
 
-[Voir mes compétences en détail](skills.html)
+[Détail des compétences](skills.html)
+
+## Formation
+
+* Master chef de projet Web - EFFICOM, Lille
+* Licence Pro TII - ISTV, Valenciennes
+* BTS SIO - Lycée le Castel, Dijon
+
+## Expérience
+
+* Développeur Web (Stage puis Alternance) - Dagoma
+*Développement des sites dagoma.fr, road.dagoma.fr ainsi que l'ERP associé à ces sites.*
+Mars 2016 - Aout 2018
+
+* Développement Web (Stage) - Univers du Pin
+*Maintien à jour du contenu du site fais en PHP maison*
+Fevrier 2015 - Mars 2015
+
+[Détail de la formation et de l'expérience](https://www.linkedin.com/in/maudremoriquet/)
+
+## Passion
+
+Passionnée de jeux-vidéo, d'informatique, d'impression 3D et de manga, je suis attiré par l'univers geek en général.
+J'ai aussi pratiqué le Handball pendant 13 ans et j'ai été entraineur à l'école de handball.
