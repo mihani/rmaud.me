@@ -2,6 +2,8 @@
 title: Présentation
 permalink: index.html
 ---
+[Compétence](skills.html) | [Projets](projects.html) | [Contact](https://mihani.typeform.com/to/DMC8iL)
+
 ## Présentation
 
 Je me présente Maud le quart de siècle atteind. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à voir en détail mes compétences.
