@@ -1,4 +1,4 @@
 ---
 title: Projets
-permalink: index.html
+permalink: projects.html
 ---

@@ -1,6 +1,6 @@
 ---
 title: Compétences
-permalink: index.html
+permalink: skills.html
 ---
 Ici vous trouverez mes hardskills et mes softskills.
 
