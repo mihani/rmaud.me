@@ -2,7 +2,7 @@
 title: Présentation
 permalink: index.html
 ---
-[Compétence](skills.html) | [Projets](projects.html) | [Contact](https://mihani.typeform.com/to/DMC8iL)
+[Compétence](skills.html) 🔹 [Projets](projects.html) 🔹 [Contact](https://mihani.typeform.com/to/DMC8iL)
 
 ## Présentation
 
