@@ -2,7 +2,7 @@
 title: Compétences
 permalink: skills.html
 ---
-[Home](index.html) 🔸 [Projets](projects.html) 🔸 [Contact](https://mihani.typeform.com/to/DMC8iL)
+[Home](index.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
 
 
 Ici vous trouverez mes hardskills et mes softskills.
