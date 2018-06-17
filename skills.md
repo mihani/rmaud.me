@@ -4,9 +4,6 @@ permalink: skills.html
 ---
 [Home](index.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
 
-
-Ici vous trouverez mes hardskills et mes softskills.
-
 ## Hardskills
 
 **Compétences utilisé quotidiennement**

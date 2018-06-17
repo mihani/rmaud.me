@@ -6,7 +6,7 @@ permalink: index.html
 
 ## Présentation
 
-Je me présente Maud le quart de siècle atteind. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à voir en détail mes compétences.
+Je me présente Maud, développeur Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à voir en détail mes compétences.
 
 Bon allons dans le vif du sujet
 
