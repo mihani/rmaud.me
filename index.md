@@ -2,7 +2,7 @@
 title: Présentation
 permalink: index.html
 ---
-[Compétence](skills.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
+[Compétences](skills.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
 
 ## Présentation
 
