@@ -2,7 +2,7 @@
 title: Projets
 permalink: projects.html
 ---
-[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Contact](contacts.html)
+[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Contact](contact.html)
 
 Liste des projets les plus aboutis réalisé dans le cadre de mes études mais aussi professionnel.
 
