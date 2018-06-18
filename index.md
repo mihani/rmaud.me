@@ -8,7 +8,7 @@ permalink: index.html
 
 Je me présente Maud, développeur Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
 
-Sur cette page vous trouverez [mes compétences](#skills), [mes formations](#formations), [mon expérience](#xp), [mes objectifs](#targets) et [mes passions](#passions).
+Sur cette page vous trouverez [mes compétences](#skills-), [mes formations](#formations-), [mon expérience](#xp-), [mes objectifs](#targets-) et [mes passions](#passions-).
 
 ## Compétences <a id="#skills"></a>
 
