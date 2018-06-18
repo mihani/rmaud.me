@@ -8,7 +8,7 @@ permalink: index.html
 
 Je me présente Maud, développeur Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
 
-Sur cette page vous trouverez [mes compétences](#skills-), [mes formations](#formations-), [mon expérience](#xp-), [mes objectifs](#targets-) et [mes passions](#passions-).
+Sur cette page vous trouverez [mes compétences](#skills-), [mes formations](#formation-), [mon expérience](#expérience-), [mes objectifs](#objectifs-) et [mes passions](#passions-).
 
 ## Compétences <a id="#skills"></a>
 
@@ -21,13 +21,13 @@ Les compétences professionnel que j'utilise quotidiennement.
 
 [Détail des compétences](skills.html)
 
-## Formation <a id="#formations"></a>
+## Formation
 
 * Master chef de projet Web - EFFICOM, Lille
 * Licence Pro TII - ISTV, Valenciennes
 * BTS SIO - Lycée le Castel, Dijon
 
-## Expérience <a id="#xp"></a>
+## Expérience
 
 * Développeur Web (Stage puis Alternance) - Dagoma
 
@@ -43,13 +43,13 @@ Fevrier 2015 - Mars 2015
 
 [Détail de la formation et de l'expérience](https://www.linkedin.com/in/maudremoriquet/)
 
-## Objectif <a id="#targets"></a>
+## Objectifs
 
 Dans ma vie professionnel, l'objectif numéro 1 est de devenir expert Symfony pour cela il me semble nécessaire de former sur des technos qui permet de faire de l'intégration continue (Jenkins). Mais aussi Docker car c'est une technos qui peut être lié à Symfony.
 
 Mis à part mes objectifs professionnel j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon. Et pourquoi pas faire un road trip en moto au Japon.
 
-## Passion <a id="#passions"></a>
+## Passions
 
 Passionnée de jeux-vidéo, d'informatique, d'impression 3D et de manga, je suis attiré par l'univers geek en général.
 J'ai aussi pratiqué le Handball pendant 13 ans et j'ai été entraineur à l'école de handball.
