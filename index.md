@@ -37,7 +37,7 @@ Mars 2016 - Aout 2018
 
 * Développement Web (Stage) - Univers du Pin
 
-*Maintien à jour du contenu du site fais en PHP maison*
+*Maintien à jour du contenu du site fais en PHP sans framework*
 
 Fevrier 2015 - Mars 2015
 
