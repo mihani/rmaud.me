@@ -1,7 +1,8 @@
 ---
 title: On reste en contact
-permalink: contact.html
+permalink: contacts.html
 ---
+[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Projets](projects.html)
 
 ## On reste en contact
 

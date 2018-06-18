@@ -2,7 +2,7 @@
 title: Compétences
 permalink: skills.html
 ---
-[Home](index.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
+[Home](index.html) 🔸 [Projets](projects.html) 🔸 [Contact](contacts.html)
 
 ## Hardskills
 
