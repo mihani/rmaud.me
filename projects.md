@@ -4,7 +4,7 @@ permalink: projects.html
 ---
 [Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Contact](contact.html)
 
-Liste des projets les plus aboutis réalisé dans le cadre de mes études mais aussi professionnel.
+Liste des projets les plus aboutis réalisés dans le cadre de mes études ainsi qu'a titre  professionnel.
 
 * Création et maintien des sites [Dagoma](https://www.dagoma.fr), [ROAD](https://road.dagoma.fr) et son ERP liés aux différents sites. Sites sous Symfony.
 
