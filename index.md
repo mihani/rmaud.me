@@ -23,9 +23,17 @@ Les compétences professionnel que j'utilise quotidiennement.
 
 ## Formation
 
-* Master chef de projet Web - EFFICOM, Lille
-* Licence Pro TII - ISTV, Valenciennes
-* BTS SIO - Lycée le Castel, Dijon
+* **EFFICOM**, *Lille* - Master chef de projet Web
+
+2016-2018
+
+* **ISTV**, *Valenciennes* - Licence Pro TII
+
+2015-2016
+
+* **Lycée le Castel**, *Dijon* - BTS SIO
+
+2013-2015
 
 ## Expérience
 
