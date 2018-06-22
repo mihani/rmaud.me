@@ -59,5 +59,5 @@ Mis à part mes objectifs professionnel j'ai aussi pour objectif personnel de vo
 
 ## Passions
 
-Passionnée de jeux-vidéo, d'informatique, d'impression 3D et de manga, je suis attiré par l'univers geek en général.
-J'ai aussi pratiqué le Handball pendant 13 ans et j'ai été entraineur à l'école de handball.
+Passionnée de jeux vidéo, d'informatique, d'impression 3D et de manga, je suis attiré par l'univers geek en général.
+J'ai aussi pratiqué le Handball pendant 13 ans et j'ai été coach à l'école de handball.
