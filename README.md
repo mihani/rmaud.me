@@ -1,6 +1,6 @@
 # rmaud.me
 
-Site personnel "développé" avec [Github Pages](https://pages.github.com/) et [markdown](https://guides.github.com/features/mastering-markdown/) car je suis pas doué avec le CSS 😋
+Site personnel "développé" avec [Github Pages](https://pages.github.com/) et [markdown](https://guides.github.com/features/mastering-markdown/) car je ne suis pas doué avec le CSS 😋
 
 🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔥
 
