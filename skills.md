@@ -15,9 +15,7 @@ permalink: skills.html
 * **MySQL/MariaDB**
 * **Doctrine**
 * API
-* JQuery
 * Markdown
-* CSS
 * JavaScript
 
 ### Software/OS
