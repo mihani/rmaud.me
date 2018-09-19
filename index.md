@@ -6,7 +6,7 @@ permalink: index.html
 
 ## Présentation
 
-Je me présente, Maud, développeur Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
+Je me présente, Maud, développeuse Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
 
 Sur cette page vous trouverez [mes compétences](#compétences), [mes formations](#formation), [mon expérience](#expérience), [mes objectifs](#objectifs) et [mes passions](#passions).
 
