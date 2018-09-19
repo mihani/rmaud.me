@@ -6,13 +6,13 @@ permalink: index.html
 
 ## Présentation
 
-Je me présente, Maud développeur Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
+Je me présente, Maud, développeur Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
 
 Sur cette page vous trouverez [mes compétences](#compétences), [mes formations](#formation), [mon expérience](#expérience), [mes objectifs](#objectifs) et [mes passions](#passions).
 
 ## Compétences
 
-Les compétences professionnel que j'utilise quotidiennement.
+Les compétences professionnelles que j'utilise quotidiennement.
 
 * PHP/Symfony
 * MySQL/MariaDb
@@ -45,7 +45,7 @@ Mars 2016 - Aout 2018
 
 * Développement Web (Stage) - Univers du Pin
 
-*Maintien à jour du contenu du site fais en PHP sans framework*
+*Maintien du contenu du site fait en PHP sans framework*
 
 Fevrier 2015 - Mars 2015
 
@@ -53,11 +53,11 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Dans ma vie professionnel, l'objectif numéro 1 est de devenir expert Symfony pour cela il me semble nécessaire de former sur des technos qui permet de faire de l'intégration continue (exemple Jenkins). Mais aussi Docker car c'est une techno qui peut être lié à Symfony.
+Dans ma vie professionnelle, l'objectif numéro 1 est de devenir expert Symfony. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue (exemple Jenkins). Mais aussi Docker car c'est une techno qui peut être lié à Symfony.
 
-Mis à part mes objectifs professionnels j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon. Et pourquoi pas faire un road trip en moto au Japon.
+Mis à part mes objectifs professionnels j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon.
 
 ## Passions
 
-Passionnée de jeux vidéo, d'informatique, d'impression 3D et de manga, je suis attiré par l'univers geek en général.
+Passionnée de jeux vidéo, d'informatique, d'impression 3D et de manga, je suis attirée par l'univers geek en général.
 J'ai aussi pratiqué le Handball pendant 13 ans et j'ai été coach à l'école de handball.
