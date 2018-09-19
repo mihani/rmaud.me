@@ -12,4 +12,4 @@ Liste des projets les plus aboutis réalisés dans le cadre de mes études ainsi
 
 * Projet de plateforme de prise de rendez-vous et de gestion comptable pour les médecins. Projet de fin de cursus en BTS et réalisé avec un framework PHP maison.
 
-* Script permettant de créer un formulaire personnalisable et utilisable hors ligne. Projet professionnel puis personnel. *Développement en cours*
+* Script permettant de créer un formulaire personnalisable et utilisable hors ligne. Projet professionnel puis personnel. **_Développement en cours_**
