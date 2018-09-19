@@ -53,9 +53,9 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Dans ma vie professionnel, l'objectif numéro 1 est de devenir expert Symfony pour cela il me semble nécessaire de former sur des technos qui permet de faire de l'intégration continue (Jenkins). Mais aussi Docker car c'est une technos qui peut être lié à Symfony.
+Dans ma vie professionnel, l'objectif numéro 1 est de devenir expert Symfony pour cela il me semble nécessaire de former sur des technos qui permet de faire de l'intégration continue (exemple Jenkins). Mais aussi Docker car c'est une techno qui peut être lié à Symfony.
 
-Mis à part mes objectifs professionnel j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon. Et pourquoi pas faire un road trip en moto au Japon.
+Mis à part mes objectifs professionnels j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon. Et pourquoi pas faire un road trip en moto au Japon.
 
 ## Passions
 
