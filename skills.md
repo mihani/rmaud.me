@@ -10,11 +10,11 @@ permalink: skills.html
 
 ### Langage - Techno
 
-* **PHP/Symfony**
+* **PHP/Symfony/API Platform**
 * **Git/Github**
 * **MySQL/MariaDB**
 * **Doctrine**
-* API
+* Docker
 * Markdown
 * JavaScript
 

@@ -37,6 +37,12 @@ Les compétences professionnelles que j'utilise quotidiennement.
 
 ## Expérience
 
+* Developpeur Back End Symfony - Picomto
+
+*Refonte l'API Picomto sous Symfony 4 et API Platform*
+
+Septembre 2018
+
 * Développeur Web (Stage puis Alternance) - Dagoma
 
 *Développement des sites dagoma.fr, road.dagoma.fr ainsi que l'ERP associé à ces sites.*
