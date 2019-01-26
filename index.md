@@ -14,7 +14,7 @@ Sur cette page vous trouverez [mes compétences](#compétences), [mes formations
 
 Les compétences professionnelles que j'utilise quotidiennement.
 
-* PHP/Symfony
+* PHP/Symfony/API Platform
 * MySQL/MariaDb
 * Git/Github
 * Ubuntu
@@ -37,11 +37,17 @@ Les compétences professionnelles que j'utilise quotidiennement.
 
 ## Expérience
 
-* Developpeur Back End Symfony - Picomto
+* Développeur Symfony - Wid'op
+
+*Développement de site sous Symfony*
+
+Janvier 2019 - Aujourd'hui 
+
+* Développeur Symfony - Picomto
 
 *Refonte l'API Picomto sous Symfony 4 et API Platform*
 
-Septembre 2018
+Septembre 2018 - Janvier 2019
 
 * Développeur Web (Stage puis Alternance) - Dagoma
 
@@ -59,7 +65,7 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Dans ma vie professionnelle, l'objectif numéro 1 est de devenir expert Symfony. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue (exemple Jenkins). Mais aussi Docker car c'est une techno qui peut être lié à Symfony.
+Dans ma vie professionnelle, l'objectif numéro 1 est de devenir expert Symfony. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue (type Jenkins). Mais aussi Docker car c'est une techno qui peut être lié à Symfony.
 
 Mis à part mes objectifs professionnels j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon.
 
