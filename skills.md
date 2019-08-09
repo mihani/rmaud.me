@@ -14,7 +14,7 @@ permalink: skills.html
 * **Git/Github**
 * **MySQL/MariaDB**
 * **Doctrine**
-* Docker
+* **Docker**
 * Markdown
 * JavaScript
 
@@ -23,9 +23,6 @@ permalink: skills.html
 * **Ubuntu**
 * **PhpStorm**
 * Atom
-* Photoshop
-* Onshape
-* Thinkercad
 
 ### Langue
 
