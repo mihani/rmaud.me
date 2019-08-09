@@ -66,9 +66,9 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Professionnellement, l'objectif numéro 1 est de devenir expert Symfony avec de bonne connaissance dans la partie DevOps. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue par exemple (type Travis).
+Professionnellement, l'objectif numéro 1 est de devenir expert Symfony avec de bonne connaissance dans la partie DevOps. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue de type Travis. Mais aussi à savoir initier des environnements sous Docker.
 
-Mis à part mes objectifs professionnels j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon.
+Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon. 🇯🇵
 
 ## Passions
 
