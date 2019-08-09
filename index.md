@@ -66,11 +66,11 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Dans ma vie professionnelle, l'objectif numéro 1 est de devenir expert Symfony. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue (type Jenkins). Mais aussi Docker car c'est une techno qui peut être lié à Symfony.
+Professionnellement, l'objectif numéro 1 est de devenir expert Symfony avec de bonne connaissance dans la partie DevOps. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue par exemple (type Travis).
 
 Mis à part mes objectifs professionnels j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon.
 
 ## Passions
 
-Passionnée de jeux vidéo, d'informatique, d'impression 3D et de manga, je suis attirée par l'univers geek en général.
-J'ai aussi pratiqué le Handball pendant 13 ans et j'ai été coach à l'école de handball.
+Passionnée de jeux vidéo, d'informatique et de manga, je suis attirée par l'univers geek en général.
+J'ai aussi pratiqué le Handball pendant 13 annés et j'ai été coach à l'école de handball.
