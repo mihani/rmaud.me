@@ -17,6 +17,7 @@ Les compétences professionnelles que j'utilise quotidiennement.
 * PHP/Symfony/API Platform
 * MySQL/MariaDb
 * Git/Github
+* Docker
 * Ubuntu
 
 [Détail des compétences](skills.html)
@@ -45,7 +46,7 @@ Janvier 2019 - Aujourd'hui
 
 * Développeur Symfony - Picomto
 
-*Refonte l'API Picomto sous Symfony 4 et API Platform*
+*Refonte API Picomto sous Symfony 4 et API Platform*
 
 Septembre 2018 - Janvier 2019
 
