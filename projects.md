@@ -21,3 +21,5 @@ Liste des projets réalisés soit à titre personnel, soit lors de mes études o
 * Création de 2 jeux éducatifs en JavaScript conçu dans le cadre de mon projet de fin d'année de Licence Pro. Jeux développés avec Phaser.
 
 * Projet de plateforme de prise de rendez-vous et de gestion comptable pour les médecins. Projet de fin de cursus en BTS et réalisé avec un framework PHP maison.
+
+Vous trouverez d'autres projets sur mon compte [Github](https://github.com/mihani)
