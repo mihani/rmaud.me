@@ -11,7 +11,7 @@ permalink: skills.html
 ### Langage - Techno
 
 * **PHP/Symfony/API Platform**
-* **Git/Github**
+* **Git/Github/Gitlab**
 * **MySQL/MariaDB**
 * **Doctrine**
 * **Docker**
@@ -22,7 +22,7 @@ permalink: skills.html
 
 * **Ubuntu**
 * **PhpStorm**
-* Atom
+* Atom/VSCode
 
 ### Langue
 
@@ -32,20 +32,20 @@ permalink: skills.html
   * Ecrit ++
   * Parler ++
 
-Ma synthaxe et mon orthographe sont mauvais mais j'arrive à me faire comprendre des anglophones à l'orale comme à l'écrit.
+Ma syntaxe et mon orthographe sont mauvais mais j'arrive à me faire comprendre des anglophones à l'orale comme à l'écrit.
 Ma compréhension orale est très en surface, cela dépend du contexte.
-Mais je continue à pratiquer l'anglais quotidiennement sous différente forme.
+Mais je continue à pratiquer l'anglais quotidiennement sous différentes formes.
 
 * Belge 🇧🇪
   * Bilingue
 
 ## Softskills
 
-Organisée et travailleuse je suis aussi curieuse, cela me permet d'apprendre des choses liées à l'informatique mais aussi appartenant à d'autre univers. Le travail en équipe ne me fait pas peur mais j'aime aussi être seule pour prendre du recul sur mes échecs et mes réussites.
-Pragmatique, je ne comprends les nouvelles choses que par le concret et la pratique. Enfin, mes émotions me jouent des tours ce qui me permet d'être à la fois bon public mais aussi sanguin.
+Organisée et travailleuse je suis aussi curieuse, cela me permet d'apprendre des choses liées à l'informatique mais pas seulement.  J'aime travailler en équipe, partager et défendre mon point de vue lors de la création d'une fonctionnalité. Je sais prendre du recul sur mes échecs et mes réussites.
+Pragmatique, je ne comprends les nouvelles choses que par le concret et la pratique. Enfin, mes émotions me jouent des tours ce qui me permet d'être bon public mais réagir très vivement à certaines situations.
 
 ### Bonus
 
-J'ai mon certificat de sauveteur secouriste du travail
+J'ai mon certificat de sauveteur secouriste du travail.
 
 [Télécharger](mycv.pdf) mon CV.
