@@ -16,7 +16,7 @@ Les compétences professionnelles que j'utilise quotidiennement.
 
 * PHP/Symfony/API Platform
 * MySQL/MariaDb
-* Git/Github
+* Git/Github/Gitlab
 * Docker
 * Ubuntu
 
@@ -66,11 +66,11 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Professionnellement, l'objectif numéro 1 est de devenir expert Symfony avec de bonne connaissance dans la partie DevOps. Pour cela il me semble nécessaire de me former sur des technos permettant de faire de l'intégration continue de type Travis. Mais aussi à savoir initier des environnements sous Docker.
+Professionnellement, mon objectif principal c'est de continuer à monter en compétence sur Symfony et à partager cette connaissance. Continuer à explorer la partie DevOps est quelque chose d'important.
 
-Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tiens à coeur, le Japon. 🇯🇵
+Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tient à coeur, le Japon. 🇯🇵
 
 ## Passions
 
 Passionnée de jeux vidéo, d'informatique et de manga, je suis attirée par l'univers geek en général.
-J'ai aussi pratiqué le Handball pendant 13 annés et j'ai été coach à l'école de handball.
+J'ai aussi pratiqué le handball pendant 13 années et j'ai été coach à l'école de handball.
