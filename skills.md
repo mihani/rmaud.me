@@ -22,6 +22,7 @@ permalink: skills.html
 
 * **Ubuntu**
 * **PhpStorm**
+* Datagrip
 * Atom/VSCode
 
 ### Langue
@@ -41,8 +42,8 @@ Mais je continue à pratiquer l'anglais quotidiennement sous différentes formes
 
 ## Softskills
 
-Organisée et travailleuse je suis aussi curieuse, cela me permet d'apprendre des choses liées à l'informatique mais pas seulement.  J'aime travailler en équipe, partager et défendre mon point de vue lors de la création d'une fonctionnalité. Je sais prendre du recul sur mes échecs et mes réussites.
-Pragmatique, je ne comprends les nouvelles choses que par le concret et la pratique. Enfin, mes émotions me jouent des tours ce qui me permet d'être bon public mais réagir très vivement à certaines situations.
+Passionée et organisée je suis aussi curieuse, cela me permet d'apprendre des choses liées à l'informatique mais pas seulement. J'aime travailler en équipe, écahnger et partager mon point de vue lors de la création d'une fonctionnalité. Je sais prendre du recul sur mes échecs et mes réussites pour progresser professionnellement et humainement.
+Pragmatique, je ne comprends les nouvelles choses que par le concret et la pratique.
 
 ### Bonus
 
