@@ -49,4 +49,4 @@ Pragmatique, je ne comprends les nouvelles choses que par le concret et la prati
 
 J'ai mon certificat de sauveteur secouriste du travail.
 
-[Télécharger](https://github.com/mihani/rmaud.me/blob/master/mycv.pdf) mon CV.
+[Télécharger](mycv.pdf) mon CV.
