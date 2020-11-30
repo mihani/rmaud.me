@@ -40,9 +40,9 @@ Les compétences professionnelles que j'utilise quotidiennement.
 
 * Développeur Symfony - Wid'op
 
-*Développement de site sous Symfony*
+*Développement d'application sous Symfony*
 
-Janvier 2019 - Aujourd'hui 
+Janvier 2019 - Octobre 2020 
 
 * Développeur Symfony - Picomto
 
@@ -66,11 +66,11 @@ Fevrier 2015 - Mars 2015
 
 ## Objectifs
 
-Professionnellement, mon objectif principal c'est de continuer à monter en compétence sur Symfony et à partager cette connaissance. Continuer à explorer la partie DevOps est quelque chose d'important.
+Professionnellement, mon objectif principal c'est de continuer à monter en compétence sur Symfony pour partager cette connaissance. J'aimerais aussi approfondir mes connaissances sur la partie base de données et DevOps.
 
-Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tient à coeur, le Japon. 🇯🇵
+Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tient à coeur, le Japon. 🇯🇵 Un premier voyage a déjà été effectué mais je compte y retourner une fois que j'aurais appris le Japonais.
 
 ## Passions
 
-Passionnée de jeux vidéo, d'informatique et de manga, je suis attirée par l'univers geek en général.
-J'ai aussi pratiqué le handball pendant 13 années et j'ai été coach à l'école de handball.
+Passionnée de jeux vidéo, d'informatique et de manga, je suis attirée par l'univers geek en général. J'aime aussi la moto, je possède le permis et l'achat d'une moto est prévu début 2021.
+Aujourd'hui je pratique le badminton mais j'ai derrière moi, 13 ans de handball. Pendant ces 13 années j'ai aussi été coach à l'école de handball.
