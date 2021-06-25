@@ -15,15 +15,14 @@ permalink: skills.html
 * **MySQL/MariaDB**
 * **Doctrine**
 * **Docker**
+* Elasticsearch
 * Markdown
-* JavaScript
 
 ### Software/OS
 
 * **Ubuntu**
-* **PhpStorm**
+* **PhpStorm/Webstorm**
 * Datagrip
-* Atom/VSCode
 
 ### Langue
 
@@ -39,6 +38,9 @@ Mais je continue à pratiquer l'anglais quotidiennement sous différentes formes
 
 * Belge 🇧🇪
   * Bilingue
+  
+* Japonais 🇯🇵
+  * Apprentissage en cours
 
 ## Softskills
 
