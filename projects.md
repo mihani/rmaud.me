@@ -2,13 +2,16 @@
 title: Projets
 permalink: projects.html
 ---
-[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Contact](contact.html)
+[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Expérience](xp.html)🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
 
 # Projets
 
 Liste des projets réalisés soit à titre personnel, soit lors de mes études ou bien dans le cadre de mon travail.
 
+
 ## Professionnels
+
+* 52 Entertainment (BBO) : Maintenance de plusieurs applications PHP autour du bridge. Ainsi que réécriture d'application sous Symfony et API Platform.
 
 * Wishibam : Développement et maintenance d'un API (API Platform) ainsi que du site e-commerce (Sylius).
   
@@ -21,6 +24,7 @@ Liste des projets réalisés soit à titre personnel, soit lors de mes études o
 * Pimcomto : Création d'une API développé sous Symfony via API Platform.
 
 * Dagoma : Création et maintenance des sites Dagoma, ROAD et son ERP liés aux différents sites. Sites sous Symfony.
+
 
 ## Personnels
 

@@ -1,80 +1,52 @@
 ---
-title: Présentation
+title: Home - Présentation
 permalink: index.html
 ---
-[Compétences](skills.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
+[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Expérience](xp.html)🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
 
 ## Présentation
 
-Je me présente, Maud, développeuse Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil. Du coup je vous invite à me découvrir grâce à ce site.
+Je me présente, Maud, développeuse Back End Symfony. Si vous êtes ici c'est que vous êtes un minimum intéressé par mon profil.
+Vous trouverez sur ce site toutes les informations concernant, [mes formations](#formation), [mes compétences](skills.html), [mon expérience](xp.html), [mes objectifs](#objectifs) et [mes passions](#passions).
 
-Sur cette page vous trouverez [mes compétences](#compétences), [mes formations](#formation), [mon expérience](#expérience), [mes objectifs](#objectifs) et [mes passions](#passions).
 
 ## Compétences
 
 Les compétences professionnelles que j'utilise quotidiennement.
 
-* PHP/Symfony/API Platform
-* MySQL/MariaDb
-* Git/Github/Gitlab
+* PHP/Symfony (Sf)/API Platform (APIP)
+* MySQL/MariaDB
+* Git/Github
 * Docker
 * Ubuntu
 
 [Détail des compétences](skills.html)
 
+
 ## Formation
 
 * **EFFICOM**, *Lille* - Master chef de projet Web
 
-2016-2018
+:calendar: 2016-2018
 
 * **ISTV**, *Valenciennes* - Licence Pro TII
 
-2015-2016
+:calendar: 2015-2016
 
 * **Lycée le Castel**, *Dijon* - BTS SIO
 
-2013-2015
+:calendar: 2013-2015
 
-## Expérience
+[Détail de ma formation](https://www.linkedin.com/in/maudremoriquet/details/education/)
 
-* Développeur Symfony - Wishibam
-
-*Développement et maintenance des applications Symfony 4. Une API (API Platform) et un site e-commerces (Sylius)*
-
-Février 2021 - Avril 2021
-
-* Développeur Symfony - Wid'op
-
-*Développement d'application sous Symfony*
-
-Janvier 2019 - Octobre 2020 
-
-* Développeur Symfony - Picomto
-
-*Refonte API Picomto sous Symfony 4 et API Platform*
-
-Septembre 2018 - Janvier 2019
-
-* Développeur Web (Stage puis Alternance) - Dagoma
-
-*Développement des sites dagoma.fr, road.dagoma.fr ainsi que l'ERP associé à ces sites.*
-
-Mars 2016 - Aout 2018
-
-* Développement Web (Stage) - Univers du Pin
-
-*Maintien du contenu du site fait en PHP sans framework*
-
-Fevrier 2015 - Mars 2015
-
-[Détail de la formation et de l'expérience](https://www.linkedin.com/in/maudremoriquet/)
 
 ## Objectifs
 
-Professionnellement, mon objectif principal c'est de continuer à monter en compétence sur Symfony pour partager cette connaissance. J'aimerais aussi approfondir mes connaissances sur la partie base de données et DevOps.
+Professionnellement, mon objectif principal c'est de continuer à monter en compétence sur Symfony et les techno lié au framework. J'aimerais aussi approfondir mes connaissances sur la partie base de données et DevOps.
+J'ai aussi pour objectif de donner ma 1ere conférence technique
 
-Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tient à coeur, le Japon. 🇯🇵 Un premier voyage a déjà été effectué mais je compte y retourner, au moins une fois, à moto dès que j'aurais appris le Japonais.
+Mis à part mes objectifs professionnels, j'ai aussi pour objectif personnel de voyager plusieurs fois dans un pays qui me tient à coeur, le Japon. 🇯🇵 Un premier voyage a déjà été effectué mais je compte y retourner, au moins une fois.
+
 
 ## Passions
 

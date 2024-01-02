@@ -2,7 +2,7 @@
 title: Compétences
 permalink: skills.html
 ---
-[Home](index.html) 🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
+[Home](index.html) 🔸 [Compétences](skills.html) 🔸 [Expérience](xp.html)🔸 [Projets](projects.html) 🔸 [Contact](contact.html)
 
 ## Hardskills
 
@@ -11,7 +11,7 @@ permalink: skills.html
 ### Langage - Techno
 
 * **PHP/Symfony/API Platform**
-* **Git/Github/Gitlab**
+* **Git/Github**
 * **MySQL/MariaDB**
 * **Doctrine**
 * **Docker**
