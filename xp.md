@@ -10,7 +10,7 @@ permalink: xp.html
 
 *Maintenance d'applications PHP + Réécriture sur Symfony et API Platform*
 
-:calendar: Septembre 2021 - Décembre 2021
+:calendar: Décembre 2021 - Aujourd'hui
 
 * **Skores**, Lille, France - Développeur Back End Symfony
 
